@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uvraaj&label=Profile%20views&color=0e75b6&style=flat" alt="uvraaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uvraaj" alt="uvraaj" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/uvxraaj" target="blank"><img src="https://img.shields.io/twitter/follow/uvxraaj?logo=twitter&style=for-the-badge" alt="uvxraaj" /></a> </p>
-
 - 📫 How to reach me **yuvrajguleria45@gmail.com**
-
-- 📄 Know about my experiences [https://acesse.one/clickforesume](https://acesse.one/clickforesume)
 
 - ⚡ Fun fact **I'm not lazy, I'm just algorithmically efficient.**
 
