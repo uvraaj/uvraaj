@@ -1,9 +1,6 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=30&center=true&vCenter=true&width=500&height=50&lines=Hi,+I'm+YUVRAJ+GULERA&color=363636&pause=1000"
-    alt="Hi, I'm YUVRAJ GULERA"
-  />
-</div>
+<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;">
+  Hi, I'm YUVRAJ GULERA
+</h1>
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   
   <img 
@@ -19,14 +16,9 @@
 
 </div>
 
-<div align="center"> 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=450&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Professional+Googler.%3B+Sometimes+I+write+code%2C+too." 
-    width="84%" 
-  />
-</div>
-
-
+<h3 align="center" style="font-family: 'Fira Sans', sans-serif; color: #444444; font-weight: 400;">
+  Professional Googler. Sometimes I write code, too.
+</h3>
 
 <br>
 
