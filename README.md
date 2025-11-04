@@ -1,32 +1,31 @@
-<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;">
-  Hi, I'm YUVRAJ GULERA
-</h1>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  
-  <img 
-    src="https://komarev.com/ghpvc/?username=uvraaj&color=blue" 
-    alt="Profile Views" 
-    style="height: 25px; vertical-align: middle;"
-  />
-  
-  <img 
-    src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" 
-    alt="Job Status" 
-    style="height: 25px; vertical-align: middle;" />
+<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;"> Hi, I'm YUVRAJ GULERIA </h1>
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img 
+  src="https://komarev.com/ghpvc/?username=uvraaj&color=blue" 
+  alt="Profile Views" 
+  style="height: 25px; vertical-align: middle;"
+/>
+<img 
+  src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" 
+  alt="Job Status" 
+  style="height: 25px; vertical-align: middle;" 
+/>
+<a href="https://github.com/sponsors/alexandresanlim">
+  <img 
+    alt="Sponsor" 
+    src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" 
+    style="height: 25px; vertical-align: middle;" />
+</a>
 </div>
 
-<h3 align="center" style="font-family: 'Fira Sans', sans-serif; color: #444444; font-weight: 400;">
-  Professional Googler. Sometimes I write code, too.
-</h3>
+<h3 align="center" style="font-family: 'Fira Sans', sans-serif; color: #444444; font-weight: 400;"> Professional Googler. Sometimes I write code, too. </h3>
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">   
   <p> - 📫 How to reach me: <strong>yuvrajguleria45@gmail.com</strong></p>
-  <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p> 
-  
+  <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>  
 </div>
 
 <br>
