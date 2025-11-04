@@ -11,7 +11,7 @@
   alt="Job Status" 
   style="height: 25px; vertical-align: middle;" 
 />
-<a href="https://github.com/sponsors/alexandresanlim">
+<a href="https://github.com/sponsors/uvraaj">
   <img 
     alt="Sponsor" 
     src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" 
