@@ -1,22 +1,20 @@
 <h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;"> Hi, I'm YUVRAJ GULERIA </h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img 
-  src="https://komarev.com/ghpvc/?username=uvraaj&color=blue" 
-  alt="Profile Views" 
-  style="height: 25px; vertical-align: middle;"
-/>
-<img 
-  src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" 
-  alt="Job Status" 
-  style="height: 25px; vertical-align: middle;" 
-/>
-<a href="https://github.com/sponsors/uvraaj">
-  <img 
-    alt="Sponsor" 
-    src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" 
-    style="height: 25px; vertical-align: middle;" />
-</a>
+  
+  <div>
+    <img
+      src="https://komarev.com/ghpvc/?username=uvraaj&color=blue"
+      alt="Profile Views"
+      style="height: 25px; vertical-align: middle; margin-right: 5px;"
+    />
+    <img
+      src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen"
+      alt="Job Status"
+      style="height: 25px; vertical-align: middle;"
+    />
+  </div>
+  
 </div>
 
 <h3 align="center" style="font-family: 'Fira Sans', sans-serif; color: #444444; font-weight: 400;"> Professional Googler. Sometimes I write code, too. </h3>
@@ -48,12 +46,14 @@
   <img src='https://leetcard.jacoblin.cool/uvraaj'/>
 </div>
   
-<div> <h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://twitter.com/uvxraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uvxraaj" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/uvraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvraaj" height="30" width="40" /></a>
-  <a href="https://instagram.com/exaltedyuviieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exaltedyuviieee" height="30" width="40" /></a>
-</div>
+<div>
+  <h3 align="center">Connect with me:</h3>
+  <div align="center">
+     <a href="https://linkedin.com/in/uvraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvraaj" height="30" width="40" /></a>
+    <a href="https://twitter.com/uvxraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uvxraaj" height="30" width="40" /></a>
+    <a href="https://instagram.com/exaltedyuviieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exaltedyuviieee" height="30" width="40" /></a>
+    <a href="https://github.com/sponsors/uvraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sponsor" height="30" width="40" /></a>
+  </div>
 </div>
 
 
