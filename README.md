@@ -34,16 +34,68 @@
 
 <br>
 
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=react" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+</div> -->
+
+<div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=react"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default"
+    />
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default" alt="GitHub Streak Stats" width="51%" />
+  </picture>
+  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  </picture>
 </div>
 
 <br>
 
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+</div> -->
+
+<div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=react"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default" alt="Top Langs" width="39%" />
+  </picture>
+  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github"
+    />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" alt="Activity Graph" width="60%" />
+  </picture>
 </div>
 
 <br>
