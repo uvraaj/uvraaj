@@ -106,11 +106,17 @@
   
 <div>
   <h3 align="center">Connect with me:</h3>
+    
   <div align="center">
-     <a href="https://linkedin.com/in/uvraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvraaj" height="30" width="40" /></a>
-    <a href="https://twitter.com/uvxraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uvxraaj" height="30" width="40" /></a>
-    <a href="https://instagram.com/exaltedyuviieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exaltedyuviieee" height="30" width="40" /></a>
-    <a href="https://github.com/sponsors/uvraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sponsor" height="30" width="40" /></a>
+     <a href="https://linkedin.com/in/uvraaj" target="blank">
+         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+     </a>
+    <a href="https://twitter.com/uvxraaj" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://instagram.com/exaltedyuviieee" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://github.com/sponsors/uvraaj" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sponsor" height="30" width="40" /></a>
   </div>
 </div>
 
