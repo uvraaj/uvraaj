@@ -42,9 +42,9 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" height="230" alt="LeetCode Badges" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" height="230" alt="LeetCode Badges" />
   </picture>
 </div>
 
