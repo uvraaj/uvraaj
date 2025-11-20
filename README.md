@@ -34,27 +34,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
-    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" height="230" alt="LeetCode Badges" />
-  </picture>
-</div>
-
-<br>
-
-<!-- <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
-</div> -->
-
 <div>
   <picture>
     <source
@@ -82,11 +61,6 @@
 </div>
 
 <br>
-
-<!-- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
-</div> -->
 
 <div>
   <picture>
@@ -116,6 +90,53 @@
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
+    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual" height="230" alt="LeetCode Annual Badges" />
+  </picture>
+    <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=submission" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission" height="230" alt="LeetCode submission Badges" />
+  </picture> -->
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=study" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study" height="230" alt="LeetCode study Badges" />
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=daily" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" height="230" alt="LeetCode daily Badges" />
+  </picture>
+    <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" height="230" alt="LeetCode daily Badges" />
+  </picture> -->
+</div>
+
+<!-- <div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=daily" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" height="230" alt="LeetCode daily Badges" />
+  </picture>
+</div> -->
+
+<br>
   
 <div>
   <h3 align="center">Connect with me:</h3>
