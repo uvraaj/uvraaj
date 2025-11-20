@@ -27,9 +27,9 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">   
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <p> - 📫 How to reach me: <strong>yuvrajguleria45@gmail.com</strong></p>
-  <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>  
+  <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>
 </div>
 
 <br>
@@ -101,7 +101,17 @@
 <br>
 
 <div align="center">
-  <img src='https://leetcard.jacoblin.cool/uvraaj'/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
+    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" height="230" alt="LeetCode Badges" />
+  </picture>
 </div>
   
 <div>
