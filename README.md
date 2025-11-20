@@ -34,6 +34,22 @@
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
+    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" height="230" alt="LeetCode Badges" />
+  </picture>
+</div>
+
+<br>
+
 <!-- <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=react" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
@@ -100,19 +116,6 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
-    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&animated=true&theme=light" height="230" alt="LeetCode Badges" />
-  </picture>
-</div>
   
 <div>
   <h3 align="center">Connect with me:</h3>
