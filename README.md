@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;"> Hi, I'm YUVRAJ GULERIA </h1>
+<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;"> Hi, I'm YUVRAJ </h1>
 
 <div align="center"style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <img
@@ -116,25 +116,20 @@
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study" height="230" alt="LeetCode study Badges" />
   </picture>
-    <picture>
+    <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=daily" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" height="230" alt="LeetCode daily Badges" />
-  </picture>
-    <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light" height="230" alt="LeetCode daily Badges" />
   </picture> -->
 </div>
 
-<!-- <div align="center">
+ <div align="center">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=daily" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily" height="230" alt="LeetCode daily Badges" />
   </picture>
-</div> -->
+</div> 
 
 <br>
   
