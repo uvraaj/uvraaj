@@ -153,10 +153,10 @@
 </div>
 
 <div>
-  <h3 
+  <p 
       align="center"
-      >Connect with me:
-  </h3>
+      ><strong>Connect with me:</strong>
+  </p>
     
   <div align="center">
      <a href="https://linkedin.com/in/uvraaj" target="blank">
