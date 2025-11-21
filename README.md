@@ -135,11 +135,11 @@
     alt="leetcode badges">
     <img 
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
-        width="8%" 
+        width="10%" 
         alt"top sql 50"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
-        width="9%"
+        width="10%"
         alt="sept 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/2550.gif" 
