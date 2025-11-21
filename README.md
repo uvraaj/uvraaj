@@ -1,15 +1,27 @@
-<h1 align="center" style="font-family: Georgia; color: #363636; font-weight: 500;"> Hi, I'm YUVRAJ </h1>
+<h1 
+    align="center" 
+    style="font-family: Georgia; 
+    color: #363636; 
+    font-weight: 500;"
+    > Hi, I'm YUVRAJ 
+</h1>
 
-<div align="center"style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img
+<div 
+    align="center"
+    style="
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center; 
+        width: 100%;">
+    <img 
       src="https://komarev.com/ghpvc/?username=uvraaj&color=blue"
       alt="Profile Views"
-      style="height: 25px; vertical-align: middle; margin-right: 5px;"
+      style="height: 25px; vertical-align: middle; margin-right: 5px;" 
     />
     <img
       src="https://img.shields.io/badge/Availability-Remote_Only-red"
       alt="Job Status"
-      style="height: 25px; vertical-align: middle;"
+      style="height: 25px; vertical-align: middle;" 
     />
     <img
       src="https://img.shields.io/badge/Open_To-Feedback_&_Collaboration-yellow"
@@ -23,18 +35,30 @@
     />
 </div>
 
-<h3 align="center" style="font-family: 'Fira Sans', sans-serif; color: #444444; font-weight: 400;"> Professional Googler. Sometimes I write code, too. </h3>
+<h3 
+    align="center" 
+    style="
+        font-family: 'Fira Sans', sans-serif; 
+        color: #444444; 
+        font-weight: 400;"
+    > Professional Googler. Sometimes I write code, too. 
+</h3>
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div 
+    style="
+        display: flex; 
+        justify-content: space-between; 
+        align-items: center; 
+        width: 100%;">
   <p> - 📫 How to reach me: <strong>yuvrajguleria45@gmail.com</strong></p>
   <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>
 </div>
 
 <br>
 
-<div>
+<div align="center" width="fit">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -44,7 +68,11 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default"
     />
-    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default" alt="GitHub Streak Stats" width="51%" />
+    <img 
+        align="center" 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default" 
+        alt="GitHub Streak Stats" 
+        width="51%" />
   </picture>
   
   <picture>
@@ -56,14 +84,18 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+    <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default" 
+        alt="GitHub Stats" 
+        width="48%" />
   </picture>
 </div>
 
 <br>
 
-<div>
-  <picture>
+<div align="center" width="fit">
+  <picture alt="Top Langs">
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=react"
@@ -72,10 +104,97 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default" alt="Top Langs" width="39%" />
+    <img  
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default" 
+        alt="Top Langs" 
+        width="43%"
+    />
   </picture>
-  
-  <picture>
+
+  <picture alt="LeetCode Stats">
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" 
+    />
+    <source 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+        srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" 
+    />
+    <img 
+        src="https://leetcard.jacoblin.cool/uvraaj?theme=light" 
+        width="50%"
+        alt="LeetCode Stats"
+    />
+  </picture>
+</div>
+
+<br>
+
+<div 
+    width="fit"
+    alt="leetcode badges">
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
+        width="100px" 
+        alt"top sql 50"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
+        width="100px"
+        alt="sept 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+        width="100px"
+        alt="50 days 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202510.gif" 
+        width="100px"
+        alt="oct 2025"></img>
+    <!-- <img src="" width="100px"></img> -->
+</div>
+
+
+<div>
+  <h3 
+      align="center"
+      >Connect with me:
+  </h3>
+    
+  <div align="center">
+     <a href="https://linkedin.com/in/uvraaj" target="blank">
+         <img 
+             align="center" 
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             alt="LinkedIn" 
+             height="30" 
+             width="40" /></a>
+    <a href="https://twitter.com/uvxraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+            alt="Twitter"
+            height="30" 
+            width="40" /></a>
+    <a href="https://instagram.com/exaltedyuviieee" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+            alt="Instagram" 
+            height="30" 
+            width="40" /></a>
+    <a href="https://github.com/sponsors/uvraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+            alt="Sponsor" 
+            height="30" 
+            width="40" /></a>
+  </div>
+</div>
+
+<br><br>
+
+<div align="center" width="fit">
+    <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko"
@@ -84,63 +203,12 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github"
     />
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" alt="Activity Graph" width="60%" />
+    <img 
+        align="center" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" 
+        alt="Activity Graph"
+        width="fit"
+    />
   </picture>
 </div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" />
-    <img src="https://leetcard.jacoblin.cool/uvraaj?theme=light" height="230" alt="LeetCode Stats" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=annual&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=annual&animated=true" height="230" alt="LeetCode Annual Badges" />
-  </picture>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=study&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" height="230" alt="LeetCode study Badges" />
-  </picture>
-    <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=submission&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission&animated=true" height="230" alt="LeetCode submission Badges" />
-  </picture> -->
-</div>
-
- <div align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=daily&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=daily&animated=true" height="230" alt="LeetCode daily Badges" />
-  </picture>
-</div> 
-
-<br>
-  
-<div>
-  <h3 align="center">Connect with me:</h3>
-    
-  <div align="center">
-     <a href="https://linkedin.com/in/uvraaj" target="blank">
-         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://twitter.com/uvxraaj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://instagram.com/exaltedyuviieee" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://github.com/sponsors/uvraaj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sponsor" height="30" width="40" /></a>
-  </div>
-</div>
-
 
