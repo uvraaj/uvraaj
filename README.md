@@ -103,19 +103,19 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=annual&animated=true" height="230" alt="LeetCode Annual Badges" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=annual&animated=true" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=annual&animated=true" height="230" alt="LeetCode Annual Badges" />
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=study&animated=true" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" height="230" alt="LeetCode study Badges" />
   </picture>
     <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=submission&animated=true" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission&animated=true" />
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=submission&animated=true" height="230" alt="LeetCode submission Badges" />
   </picture> -->
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=dark&filter=study&animated=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvraaj&theme=light&filter=study&animated=true" height="230" alt="LeetCode study Badges" />
-  </picture>
 </div>
 
  <div align="center">
