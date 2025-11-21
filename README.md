@@ -8,11 +8,11 @@
 
 <div 
     align="center"
+    width="fit"
     style="
         display: flex; 
         justify-content: space-between; 
-        align-items: center; 
-        width: 100%;">
+        align-items: center">
     <img 
       src="https://komarev.com/ghpvc/?username=uvraaj&color=blue"
       alt="Profile Views"
@@ -51,7 +51,7 @@
         display: flex; 
         justify-content: space-between; 
         align-items: center; 
-        width: 100%;">
+        width: fit;">
   <p> - 📫 How to reach me: <strong>yuvrajguleria45@gmail.com</strong></p>
   <p> - ⚡ Fun fact: <strong>I'm not lazy, I'm just algorithmically efficient.</strong></p>
 </div>
@@ -72,7 +72,7 @@
         align="center" 
         src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default" 
         alt="GitHub Streak Stats" 
-        width="51%" />
+        width="49%" />
   </picture>
   
   <picture>
@@ -135,19 +135,19 @@
     alt="leetcode badges">
     <img 
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
-        width="100px" 
+        width="8%" 
         alt"top sql 50"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
-        width="100px"
+        width="9%"
         alt="sept 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/2550.gif" 
-        width="100px"
+        width="10%"
         alt="50 days 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/202510.gif" 
-        width="100px"
+        width="10%"
         alt="oct 2025"></img>
     <!-- <img src="" width="100px"></img> -->
 </div>
@@ -195,20 +195,20 @@
 
 <div align="center" width="fit">
     <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github"
-    />
-    <img 
-        align="center" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" 
-        alt="Activity Graph"
-        width="fit"
-    />
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko"
+        />
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github"
+        />
+        <img 
+            align="center" 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" 
+            alt="Activity Graph"
+            width="fit"
+        />
   </picture>
 </div>
 
