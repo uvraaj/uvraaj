@@ -166,31 +166,27 @@
      <a href="https://linkedin.com/in/uvraaj" target="blank">
          <img 
              align="center" 
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
              alt="LinkedIn" 
-             height="30" 
-             width="40" /></a>
+             width="5%" /></a>
     <a href="https://twitter.com/uvxraaj" target="blank">
         <img 
             align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-            alt="Twitter"
-            height="30" 
-            width="40" /></a>
+            src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" 
+            alt="Twitter" 
+            width="5%" /></a>
     <a href="https://instagram.com/exaltedyuviieee" target="blank">
         <img 
             align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+            src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" 
             alt="Instagram" 
-            height="30" 
-            width="40" /></a>
+            width="5%" /></a>
     <a href="https://github.com/sponsors/uvraaj" target="blank">
         <img 
             align="center" 
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-            alt="Sponsor" 
-            height="30" 
-            width="40" /></a>
+            src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" 
+            alt="Sponsor"
+            width="5%" /></a>
   </div>
 </div>
 
