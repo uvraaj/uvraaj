@@ -214,33 +214,3 @@
         />
   </picture>
 </div>
-
-<br>
-
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="15" width="100%">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" height="30px" style="margin-right: 10px;" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" height="30px" style="margin-right: 10px;" />
-  </marquee>
-</div>
