@@ -182,11 +182,11 @@
             alt="Instagram" 
             width="5%" /></a>
     <a href="https://github.com/sponsors/uvraaj" target="blank">
-        <img 
+        <!-- <img 
             align="center" 
             src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" 
             alt="Sponsor"
-            width="5%" /></a>
+            width="5%" /></a> -->
   </div>
 
 <br><br>
