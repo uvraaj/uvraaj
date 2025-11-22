@@ -128,7 +128,7 @@
   </picture>
 </div>
 
-<br><br>
+<br>
 
 <div 
     width="fit"
@@ -155,6 +155,8 @@
         alt"top sql 50"></img>
     <!-- <img src="" width="10%"></img> -->
 </div>
+
+<br><br>
 
 <div>
   <h3 align="center">
