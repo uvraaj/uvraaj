@@ -134,6 +134,10 @@
     width="fit"
     alt="leetcode badges">
     <img 
+        src="https://assets.leetcode.com/static_assets/others/25100.gif" 
+        width="100px"
+        alt="100 days 2025"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/others/2550.gif" 
         width="10%"
         alt="50 days 2025"></img>
