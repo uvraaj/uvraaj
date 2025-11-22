@@ -157,10 +157,10 @@
 </div>
 
 <div>
-  <p 
-      align="center"
-      ><strong>Connect with me:</strong>
-  </p>
+  <h3 align="center">
+      <strong>Let's Connect! ↯↯↯</strong
+  </h3>
+</div>
     
   <div align="center">
      <a href="https://linkedin.com/in/uvraaj" target="blank">
@@ -188,7 +188,6 @@
             alt="Sponsor"
             width="5%" /></a>
   </div>
-</div>
 
 <br><br>
 
