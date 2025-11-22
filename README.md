@@ -135,7 +135,7 @@
     alt="leetcode badges">
     <img 
         src="https://assets.leetcode.com/static_assets/others/25100.gif" 
-        width="100px"
+        width="10%"
         alt="100 days 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/2550.gif" 
@@ -153,7 +153,7 @@
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
         width="10%" 
         alt"top sql 50"></img>
-    <!-- <img src="" width="100px"></img> -->
+    <!-- <img src="" width="10%"></img> -->
 </div>
 
 <div>
