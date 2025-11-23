@@ -168,9 +168,9 @@
      <a href="https://linkedin.com/in/uvraaj" target="blank">
          <img 
              align="center" 
-             src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
+             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" 
              alt="LinkedIn" 
-             width="5%" /></a>
+             width="10%" /></a>
     <a href="https://twitter.com/uvxraaj" target="blank">
         <img 
             align="center" 
