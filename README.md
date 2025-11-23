@@ -168,27 +168,38 @@
      <a href="https://linkedin.com/in/uvraaj" target="blank">
          <img 
              align="center" 
-             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" 
-             alt="LinkedIn" 
-             width="10%" /></a>
+             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" 
+             alt="LinkedIn"/></a>
     <a href="https://twitter.com/uvxraaj" target="blank">
         <img 
             align="center" 
-            src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" 
-            alt="Twitter" 
-            width="5%" /></a>
+            src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" 
+            alt="Twitter" /></a>
     <a href="https://instagram.com/exaltedyuviieee" target="blank">
         <img 
             align="center" 
-            src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" 
-            alt="Instagram" 
-            width="5%" /></a>
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
+            alt="Instagram" /></a>
     <a href="https://github.com/sponsors/uvraaj" target="blank">
-        <!-- <img 
+        <img 
             align="center" 
-            src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" 
-            alt="Sponsor"
-            width="5%" /></a> -->
+            src="https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA" 
+            alt="Sponsor"/></a>
+      <a href="https://leetcode.com/u/uvraaj/" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" 
+            alt="Leetcode"/></a>
+      <a href="https://medium.com/@yuvrajsinghguleria" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" 
+            alt="medium"/></a>
+      <a href="https://github.com/uvraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" 
+            alt="github"/></a>
   </div>
 
 <br><br>
