@@ -19,18 +19,18 @@
       style="height: 25px; vertical-align: middle; margin-right: 5px;" 
     />
     <img
-      src="https://img.shields.io/badge/Availability-Remote_Only-red"
+      src="https://img.shields.io/badge/Availability-Remote-ff7f3f"
       alt="Job Status"
       style="height: 25px; vertical-align: middle;" 
     />
     <img
-      src="https://img.shields.io/badge/Open_To-Feedback_&_Collaboration-yellow"
+      src="https://img.shields.io/badge/Open_To-Feedback_&_Collaboration-ff5bd8"
       alt="Job Status"
       style="height: 25px; vertical-align: middle;"
     />
     <img
-      src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen"
-      alt="Job Status"
+      src="https://img.shields.io/badge/Status-Compiling_Dreams-brightgreen"
+      alt="Status"
       style="height: 25px; vertical-align: middle;"
     />
 </div>
