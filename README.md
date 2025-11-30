@@ -142,6 +142,10 @@
         width="10%"
         alt="50 days 2025"></img>
     <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202511.gif" 
+        width="10%"
+        alt="nov 2025"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/marketing/202510.gif" 
         width="10%"
         alt="oct 2025"></img>
