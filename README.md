@@ -75,7 +75,7 @@
         width="49%" />
   </picture>
   
-  <picture>
+  <!-- <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react"
@@ -87,6 +87,22 @@
     <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default" 
+        alt="GitHub Stats" 
+        width="48%" />
+  </picture> -->
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=react"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=default"
+    />
+    <img 
+        align="center" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=default"
         alt="GitHub Stats" 
         width="48%" />
   </picture>
@@ -114,7 +130,7 @@
   <picture alt="LeetCode Stats">
     <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark" 
+        srcset="https://leetcard.jacoblin.cool/uvraaj?theme=dark"
     />
     <source 
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
