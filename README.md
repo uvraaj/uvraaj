@@ -62,15 +62,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=react"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default"
+      srcset="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=light"
     />
     <img 
         align="center" 
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj&theme=default" 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=uvraaj" 
         alt="GitHub Streak Stats" 
         width="49%" />
   </picture>
@@ -94,15 +94,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=react"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=default"
+      srcset="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=light"
     />
     <img 
         align="center" 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true&theme=default"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=uvraaj&layout=compact&show_icons=true"
         alt="GitHub Stats" 
         width="48%" />
   </picture>
@@ -114,14 +114,14 @@
   <picture alt="Top Langs">
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=react"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut&theme=light"
     />
     <img  
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=compact&theme=default" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut" 
         alt="Top Langs" 
         width="43%"
     />
@@ -137,7 +137,7 @@
         srcset="https://leetcard.jacoblin.cool/uvraaj?theme=light" 
     />
     <img 
-        src="https://leetcard.jacoblin.cool/uvraaj?theme=light" 
+        src="https://leetcard.jacoblin.cool/uvraaj" 
         width="50%"
         alt="LeetCode Stats"
     />
@@ -180,7 +180,7 @@
 
 <div>
   <h3 align="center">
-      <strong>Let's Connect! ↯↯↯</strong
+      <strong>Let's Connect!</strong
   </h3>
 </div>
     
@@ -235,15 +235,15 @@
     <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=merko"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=dark"
         />
         <source
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=light"
         />
         <img 
             align="center" 
-            src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=github" 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj" 
             alt="Activity Graph"
             width="fit"
         />
