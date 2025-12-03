@@ -57,7 +57,7 @@
 </div>
 
 <br>
-
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <div align="center" width="fit">
   <picture>
     <source
@@ -109,24 +109,65 @@
 </div>
 
 <br>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<div align="center" width="fit">
+  <picture alt="github-profile-summary-card">
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj&theme=dark"
+    />
+    <source 
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj&theme=light" 
+    />
+    <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj" 
+        width="99%"
+        alt="github-profile-summary-card"
+    />
+  </picture>
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
 
 <div align="center" width="fit">
-  <picture alt="Top Langs">
+  <picture alt="Top Langs per repo">
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut&theme=dark"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut&theme=light"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj&theme=light"
     />
     <img  
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvraaj&layout=donut" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj" 
         alt="Top Langs" 
         width="43%"
     />
   </picture>
 
+<picture alt="Top Langs per commit">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj&theme=light"
+    />
+    <img  
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj" 
+        alt="Top Langs" 
+        width="43%"
+    />
+  </picture>  
+</div>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+
+<div align="center" width="fit">
   <picture alt="LeetCode Stats">
     <source 
         media="(prefers-color-scheme: dark)" 
@@ -138,12 +179,12 @@
     />
     <img 
         src="https://leetcard.jacoblin.cool/uvraaj" 
-        width="50%"
+        width="60%"
         alt="LeetCode Stats"
     />
   </picture>
 </div>
-
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
 
 <div 
