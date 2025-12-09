@@ -107,10 +107,29 @@
         width="48%" />
   </picture>
 </div>
-
-<br>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br>
+
 <div align="center" width="fit">
+    <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=dark"
+        />
+        <source
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=light"
+        />
+        <img 
+            align="center" 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj" 
+            alt="Activity Graph"
+            width="fit"
+        />
+  </picture>
+</div>
+
+<!-- <div align="center" width="fit">
   <picture alt="github-profile-summary-card">
     <source 
         media="(prefers-color-scheme: dark)" 
@@ -126,7 +145,7 @@
         alt="github-profile-summary-card"
     />
   </picture>
-</div>
+</div> -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- <br> -->
 
@@ -269,24 +288,3 @@
             alt="github"
             width="5%"/></a>
   </div>
-
-<br><br>
-
-<div align="center" width="fit">
-    <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=dark"
-        />
-        <source
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj&theme=light"
-        />
-        <img 
-            align="center" 
-            src="https://github-readme-activity-graph.vercel.app/graph?username=uvraaj" 
-            alt="Activity Graph"
-            width="fit"
-        />
-  </picture>
-</div>
