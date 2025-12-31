@@ -29,7 +29,7 @@
       style="height: 25px; vertical-align: middle;"
     />
     <img
-      src="https://img.shields.io/badge/Status-Compiling_Dreams-brightgreen"
+      src="https://img.shields.io/badge/Status-Building%20Solutions-brightgreen"
       alt="Status"
       style="height: 25px; vertical-align: middle;"
     />
@@ -261,7 +261,7 @@
             src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
             alt="Twitter"
             width="5%"/></a>
-    <a href="https://instagram.com/exaltedyuviieee" target="blank">
+    <a href="https://instagram.com/yuvraj_guleriaa" target="blank">
         <img 
             align="center" 
             src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
