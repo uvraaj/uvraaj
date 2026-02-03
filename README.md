@@ -265,7 +265,7 @@
             src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
             alt="Twitter"
             width="5%"/></a>
-    <a href="https://instagram.com/yuvraj_guleriaa" target="blank">
+    <a href="https://www.instagram.com/dee_kashyapx" target="blank">
         <img 
             align="center" 
             src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
