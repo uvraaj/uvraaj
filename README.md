@@ -251,6 +251,7 @@
         alt"top sql 50"></img>
 <img src="https://assets.leetcode.com/static/images/coin.gif" width="10%"></img> 
 
+</div>
     <!-- <img src="" width="10%"></img> -->
 </div>
 
