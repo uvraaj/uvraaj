@@ -249,6 +249,8 @@
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
         width="10%" 
         alt"top sql 50"></img>
+<img src="https://assets.leetcode.com/static/images/coin.gif" width="10%"></img> 
+
     <!-- <img src="" width="10%"></img> -->
 </div>
 
