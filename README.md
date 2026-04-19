@@ -210,6 +210,10 @@
     width="fit"
     alt="leetcode badges">
     <img 
+        src="https://assets.leetcode.com/static_assets/public/images/coin.gif" 
+        width="10%" 
+        alt"coin"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/others/25100.gif" 
         width="10%"
         alt="100 days 2025"></img>
@@ -249,7 +253,6 @@
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
         width="10%" 
         alt"top sql 50"></img>
-<img src="https://assets.leetcode.com/static/images/coin.gif" width="10%"></img> 
 
 </div>
     <!-- <img src="" width="10%"></img> -->
