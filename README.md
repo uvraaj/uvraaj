@@ -3,7 +3,7 @@
     style="font-family: Georgia; 
     color: #363636; 
     font-weight: 500;"
-    > YUVRAJ GULERIA 
+    > YUVRAJ S. GULERIA 
 </h1>
 
 <div 
