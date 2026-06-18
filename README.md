@@ -3,7 +3,7 @@
     style="font-family: Georgia; 
     color: #363636; 
     font-weight: 500;"
-    > Hi, I'm YUVRAJ 
+    > YUVRAJ GULERIA 
 </h1>
 
 <div 
@@ -34,6 +34,7 @@
       style="height: 25px; vertical-align: middle;"
     />
 </div>
+
 
 <h3 
     align="center" 
