@@ -3,7 +3,7 @@
     style="font-family: Georgia; 
     color: #363636; 
     font-weight: 500;"
-    > YUVRAJ S. GULERIA 
+    > YUVRAJ GULERIA 
 </h1>
 
 <div 
@@ -230,6 +230,18 @@
         src="https://assets.leetcode.com/static_assets/others/2550.gif" 
         width="10%"
         alt="50 days 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
+        width="10%"
+        alt="may 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/4.gif" 
+        width="10%"
+        alt="apr 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/3.gif" 
+        width="10%"
+        alt="mar 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/2.gif" 
         width="10%"
