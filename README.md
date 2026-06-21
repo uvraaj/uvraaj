@@ -219,17 +219,9 @@
         width="10%"
         alt="100 days 2026"></img>
     <img 
-        src="https://assets.leetcode.com/static_assets/others/25100.gif" 
-        width="10%"
-        alt="100 days 2025"></img>
-    <img 
         src="https://assets.leetcode.com/static_assets/others/50.gif" 
         width="10%"
         alt="50 days 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/others/2550.gif" 
-        width="10%"
-        alt="50 days 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
         width="10%"
@@ -250,6 +242,14 @@
         src="https://assets.leetcode.com/static_assets/marketing/1.gif" 
         width="10%"
         alt="jan 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/25100.gif" 
+        width="10%"
+        alt="100 days 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+        width="10%"
+        alt="50 days 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/202512.gif" 
         width="10%"
