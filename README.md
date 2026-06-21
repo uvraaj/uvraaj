@@ -223,6 +223,34 @@
         width="10%"
         alt="50 days 2026"></img>
     <img 
+        src="https://assets.leetcode.com/static_assets/marketing/12.gif" 
+        width="10%"
+        alt="dec 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/11.gif" 
+        width="10%"
+        alt="nov 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/10.gif" 
+        width="10%"
+        alt="oct 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/9.gif" 
+        width="10%"
+        alt="sept 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/8.gif" 
+        width="10%"
+        alt="aug 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/7.gif" 
+        width="10%"
+        alt="jul 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/6.gif" 
+        width="10%"
+        alt="jun 2026"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
         width="10%"
         alt="may 2026"></img>
@@ -266,6 +294,38 @@
         src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
         width="10%"
         alt="sept 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202508.gif" 
+        width="10%"
+        alt="aug 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202507.gif" 
+        width="10%"
+        alt="jul 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202506.gif" 
+        width="10%"
+        alt="jun 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202505.gif" 
+        width="10%"
+        alt="may 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202504.gif" 
+        width="10%"
+        alt="apr 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202503.gif" 
+        width="10%"
+        alt="mar 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
+        width="10%"
+        alt="feb 2025"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/202501.gif" 
+        width="10%"
+        alt="jan 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
         width="10%" 
