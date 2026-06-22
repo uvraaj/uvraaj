@@ -109,7 +109,7 @@
   </picture>
 </div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<br><br>
+<br>
 
 <div align="center" width="fit">
     <picture>
@@ -129,6 +129,58 @@
         />
   </picture>
 </div>
+
+<div>
+  <h3 align="center">
+      <strong>Let's Connect!</strong
+  </h3>
+</div>
+    
+  <div align="center">
+     <a href="https://linkedin.com/in/uvraaj" target="blank">
+         <img 
+             align="center" 
+             src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" 
+             alt="LinkedIn"
+             width="5%"/></a>
+    <a href="https://twitter.com/uvxraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
+            alt="Twitter"
+            width="5%"/></a>
+    <a href="https://www.instagram.com/yuvzraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
+            alt="Instagram"
+            width="5%"/></a>
+    <a href="https://github.com/sponsors/uvraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA" 
+            alt="Sponsor"
+            width="5%"/></a>
+      <a href="https://leetcode.com/u/uvraaj/" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-000000?logo=LeetCode&logoColor=#d16c06" 
+            alt="Leetcode"
+            width="5%"/></a>
+      <a href="https://medium.com/@yuvrajsinghguleria" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-black?logo=medium&logoColor=white" 
+            alt="medium"
+            width="5%"/></a>
+      <a href="https://github.com/uvraaj" target="blank">
+        <img 
+            align="center" 
+            src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" 
+            alt="github"
+            width="5%"/></a>
+  </div>
+
 
 <!-- <div align="center" width="fit">
   <picture alt="github-profile-summary-card">
@@ -335,55 +387,3 @@
     <!-- <img src="" width="10%"></img> -->
 </div>
 
-<br><br>
-
-<div>
-  <h3 align="center">
-      <strong>Let's Connect!</strong
-  </h3>
-</div>
-    
-  <div align="center">
-     <a href="https://linkedin.com/in/uvraaj" target="blank">
-         <img 
-             align="center" 
-             src="https://custom-icon-badges.demolab.com/badge/-0A66C2?logo=linkedin-white&logoColor=fff" 
-             alt="LinkedIn"
-             width="5%"/></a>
-    <a href="https://twitter.com/uvxraaj" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
-            alt="Twitter"
-            width="5%"/></a>
-    <a href="https://www.instagram.com/yuvzraaj" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
-            alt="Instagram"
-            width="5%"/></a>
-    <a href="https://github.com/sponsors/uvraaj" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA" 
-            alt="Sponsor"
-            width="5%"/></a>
-      <a href="https://leetcode.com/u/uvraaj/" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-000000?logo=LeetCode&logoColor=#d16c06" 
-            alt="Leetcode"
-            width="5%"/></a>
-      <a href="https://medium.com/@yuvrajsinghguleria" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-black?logo=medium&logoColor=white" 
-            alt="medium"
-            width="5%"/></a>
-      <a href="https://github.com/uvraaj" target="blank">
-        <img 
-            align="center" 
-            src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white" 
-            alt="github"
-            width="5%"/></a>
-  </div>
