@@ -58,7 +58,7 @@
 </div>
 
 <br>
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <div align="center" width="fit">
   <picture>
     <source
@@ -75,22 +75,6 @@
         alt="GitHub Streak Stats" 
         width="49%" />
   </picture>
-  
-  <!-- <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=react"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default"
-    />
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=uvraaj&layout=compact&show_icons=true&theme=default" 
-        alt="GitHub Stats" 
-        width="48%" />
-  </picture> -->
 
   <picture>
     <source
@@ -108,7 +92,7 @@
         width="48%" />
   </picture>
 </div>
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <br>
 
 <div align="center" width="fit">
@@ -149,7 +133,7 @@
             src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
             alt="Twitter"
             width="5%"/></a>
-    <a href="https://www.instagram.com/yuvzraaj" target="blank">
+    <a href="https://www.instagram.com/yuvraaj.kashyapp" target="blank">
         <img 
             align="center" 
             src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
@@ -181,62 +165,7 @@
             width="5%"/></a>
   </div>
 
-
-<!-- <div align="center" width="fit">
-  <picture alt="github-profile-summary-card">
-    <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj&theme=dark"
-    />
-    <source 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj&theme=light" 
-    />
-    <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvraaj" 
-        width="99%"
-        alt="github-profile-summary-card"
-    />
-  </picture>
-</div> -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- <br> -->
-
-<!-- <div align="center" width="fit">
-  <picture alt="Top Langs per repo">
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj&theme=light"
-    />
-    <img  
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uvraaj" 
-        alt="Top Langs" 
-        width="43%"
-    />
-  </picture>
-
-<picture alt="Top Langs per commit">
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj&theme=light"
-    />
-    <img  
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uvraaj" 
-        alt="Top Langs" 
-        width="43%"
-    />
-  </picture>  
-</div> -->
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<br>
 <br>
 
 <div align="center" width="fit">
@@ -256,7 +185,7 @@
     />
   </picture>
 </div>
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <br>
 
 <div 
@@ -274,46 +203,6 @@
         src="https://assets.leetcode.com/static_assets/others/50.gif" 
         width="10%"
         alt="50 days 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/12.gif" 
-        width="10%"
-        alt="dec 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/11.gif" 
-        width="10%"
-        alt="nov 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/10.gif" 
-        width="10%"
-        alt="oct 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/9.gif" 
-        width="10%"
-        alt="sept 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/8.gif" 
-        width="10%"
-        alt="aug 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/7.gif" 
-        width="10%"
-        alt="jul 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/6.gif" 
-        width="10%"
-        alt="jun 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
-        width="10%"
-        alt="may 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/4.gif" 
-        width="10%"
-        alt="apr 2026"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/3.gif" 
-        width="10%"
-        alt="mar 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/2.gif" 
         width="10%"
@@ -346,38 +235,6 @@
         src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
         width="10%"
         alt="sept 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202508.gif" 
-        width="10%"
-        alt="aug 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202507.gif" 
-        width="10%"
-        alt="jul 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202506.gif" 
-        width="10%"
-        alt="jun 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202505.gif" 
-        width="10%"
-        alt="may 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202504.gif" 
-        width="10%"
-        alt="apr 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202503.gif" 
-        width="10%"
-        alt="mar 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
-        width="10%"
-        alt="feb 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/marketing/202501.gif" 
-        width="10%"
-        alt="jan 2025"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
         width="10%" 
