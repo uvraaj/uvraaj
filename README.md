@@ -216,6 +216,10 @@
         width="10%"
         alt="jun 2026"></img>
     <img 
+        src="https://assets.leetcode.com/static_assets/marketing/3.gif" 
+        width="10%"
+        alt="mar 2026"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/marketing/2.gif" 
         width="10%"
         alt="feb 2026"></img>
