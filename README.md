@@ -195,6 +195,10 @@
         src="https://assets.leetcode.com/static_assets/public/images/coin.gif" 
         width="10%" 
         alt"coin"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
+        width="10%" 
+        alt"top sql 50"></img>
     <!-- <img 
         src="https://assets.leetcode.com/static_assets/marketing/1000.gif" 
         width="10%" 
@@ -211,6 +215,10 @@
         src="https://assets.leetcode.com/static_assets/others/50.gif" 
         width="10%"
         alt="50 days 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/7.gif" 
+        width="10%"
+        alt="jul 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/6.gif" 
         width="10%"
@@ -251,10 +259,6 @@
         src="https://assets.leetcode.com/static_assets/marketing/202509.gif" 
         width="10%"
         alt="sept 2025"></img>
-    <img 
-        src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" 
-        width="10%" 
-        alt"top sql 50"></img>
 
 </div>
     <!-- <img src="" width="10%"></img> -->
