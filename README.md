@@ -133,7 +133,7 @@
             src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
             alt="Twitter"
             width="5%"/></a>
-    <a href="https://www.instagram.com/yuvraaj.kashyapp" target="blank">
+    <a href="https://www.instagram.com/kasxhyapp" target="blank">
         <img 
             align="center" 
             src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
