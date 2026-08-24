@@ -200,6 +200,10 @@
         width="10%" 
         alt"top sql 50"></img>
     <!-- <img 
+        src="https://assets.leetcode.com/static_assets/marketing/2000.gif" 
+        width="10%" 
+        alt"2000 days"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/marketing/1000.gif" 
         width="10%" 
         alt"1000 days"></img>
@@ -207,6 +211,10 @@
         src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" 
         width="10%" 
         alt"500 days"></img> -->
+    <img 
+        src="https://assets.leetcode.com/static_assets/others/2026_200.gif" 
+        width="10%"
+        alt="200 days 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/others/100.gif" 
         width="10%"
