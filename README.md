@@ -133,7 +133,7 @@
             src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white" 
             alt="Twitter"
             width="5%"/></a>
-    <a href="https://www.instagram.com/kasxhyapp" target="blank">
+    <a href="https://www.instagram.com/unrealyuvie" target="blank">
         <img 
             align="center" 
             src="https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white" 
@@ -215,6 +215,10 @@
         src="https://assets.leetcode.com/static_assets/others/50.gif" 
         width="10%"
         alt="50 days 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/8.gif" 
+        width="10%"
+        alt="aug 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/7.gif" 
         width="10%"
