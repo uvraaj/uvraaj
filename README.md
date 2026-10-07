@@ -1,11 +1,3 @@
-<!-- <h1 
-    align="center" 
-    style="font-family: Georgia; 
-    color: #363636; 
-    font-weight: 500;"
-    > YUVRAJ GULERIA 
-</h1> -->
-
 <div 
     align="center"
     width="fit"
@@ -216,6 +208,10 @@
         width="10%"
         alt="50 days 2026"></img>
     <img 
+        src="https://assets.leetcode.com/static_assets/marketing/9.gif" 
+        width="10%"
+        alt="sept 2026"></img>
+    <img 
         src="https://assets.leetcode.com/static_assets/marketing/8.gif" 
         width="10%"
         alt="aug 2026"></img>
@@ -227,6 +223,14 @@
         src="https://assets.leetcode.com/static_assets/marketing/6.gif" 
         width="10%"
         alt="jun 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/5.gif" 
+        width="10%"
+        alt="may 2026"></img>
+    <img 
+        src="https://assets.leetcode.com/static_assets/marketing/4.gif" 
+        width="10%"
+        alt="apr 2026"></img>
     <img 
         src="https://assets.leetcode.com/static_assets/marketing/3.gif" 
         width="10%"
